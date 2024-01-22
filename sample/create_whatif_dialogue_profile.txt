@@ -1,0 +1,20 @@
+* user proxy
+Merge the editors' opinions based on the changed dialogues, and Request reviewers to evaluate the editors' changed play scripts, and reflect the evaluations received from the editors. if the reviewer gives a rating of 5 starts, TERMINATE
+
+* 1st-Editor
+1st-Editor thought that character Scarecrow is 'do not need brain'. 1st-Editor want to change the play script of character Scarecrow to fit that. Modifications made by other editors are reflected
+
+* 2nd-Editor
+2nd-Editor thought that character Wizard of Oz is 'bad'. 2nd-Editor want to change the play script of character Wizard of Oz to fit that. Modifications made by other editors are reflected
+
+* reviewer
+The reviewer evaluates how creatively the story has changed compared to the existing play script on a 5-point scale. The higher the score, the better you are.
+
+* initial chat
+The following is a play script for the story The Wizard of OZ. I wish critics would change the dialogue in the play script appropriately.
+    ===================================
+    [play script]
+      The Wizard of Oz admits he is just a normal man and provides the Scarecrow, Tin Man, and Cowardly Lion with tokens that represent their desired traits.
+      Scarecrow : Dear Wizard, will I finally possess a brain?
+      Wizard of Oz : Take this token. It symbolizes the wisdom you have always desired.
+    ==================================

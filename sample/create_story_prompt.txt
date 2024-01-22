@@ -1,0 +1,33 @@
+Divide the story of The Wizard of OZ into 10 scenes, and compose each scene with descriptions of the situations, the personas of the characters involved, and a few dialogues they exchange. Please provide a brief description of the situation in 2 to 3 sentences. I would like it to be output in JSON format.
+The JSON format must have the following fields:
+
+{
+  "scenes": [
+    {
+      "scene_number": 1,
+      "situation": "blahblah",
+      "characters": [
+        {
+          "name": "blahblah",
+          "persona": "blahblah",
+          "dialogue": "blahblah",
+        }
+      ]
+    },
+    {
+      "scene_number": 2,
+      "situation": "blahblah",
+      "characters": [
+        {
+          "name": "blahblah",
+          "persona": "blahblah",
+          "dialogue": "blahblah",
+        },
+        {
+          "name": "blahblah",
+          "persona": "blahblah",
+          "dialogue": "blahblah",
+        }
+      ],
+      ...
+    }]}
