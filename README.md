@@ -34,5 +34,8 @@ $ streamlit run src/fairy_tale_app.py
 ```
 * when running the `fairy_tale_app`, connect to the address printed in the console using a web browser
 
+## Video Clip
+show video_clip/WhatIfFairyTale.mp4
+
 ## Notebook for overall story transformation
 run `notebook/Autogen_WhatIf.ipynb`
